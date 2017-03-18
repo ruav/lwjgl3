@@ -39,7 +39,7 @@ This script is included in /config/build-definitions.xml.
 	<property name="binding.yoga" value="true"/>
 
 	<!-- Set the path to the Oculus SDK to enable. -->
-	<property name="OCULUS_SDK_PATH" location="../OculusSDK" relative="false"/>
+	<property name="OCULUS_SDK_PATH" location="C:/SERVER/DEPENDENCIES/OculusSDK" relative="false"/>
 
 	<!-- // ================================ // -->
 
